@@ -5,3 +5,7 @@ Dasar Hukum tentang data wilayah ini
 ========================
 Pustaka data wilayah ini disusun dari lampiran Peraturan Menteri Dalam Negeri (Permendagri) Nomor 56 Tahun 2015 Tentang Kode dan Data Wilayah Administrasi Pemerintahan
 
+# Pembaruan Data
+Kode dan Data Wilayah Administrasi Pemerintah (Permendagri No 137 -2017) http://www.kemendagri.go.id/produk-hukum/2018/01/18/kode-dan-data-wilayah-administrasi-pemerintahan-tahun-2017
+
+Untuk pembaruan datanya, silakan akses repo https://github.com/infest-lab/wilayah2018-migrator
